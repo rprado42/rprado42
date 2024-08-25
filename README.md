@@ -25,7 +25,7 @@
 <p dir="auto"><strong>Technologies and Tools:</strong></p>
 <ul dir="auto">
 <li><strong>Cloud Platforms:</strong> AWS, Azure, ECS</li>
-<li><strong>Infrastructure as Code:</strong> Terraform, Terragrunt</li>
+<li><strong>Infrastructure as Code:</strong> Terraform, DataDog</li>
 <li><strong>Monitoring/Observability:</strong> DataDog,Grafana, Prometheus, Dynatrace</li>
 <li><strong>Containerization &amp; Orchestration:</strong> Docker, Kubernetes</li>
 <li><strong>Programming/Scripting:</strong> Go, Bash, Python</li>
