@@ -7,7 +7,7 @@
 
 <li>Degree: MBA in Software Engineering.</li>
 
-<li>Proficiency: In-depth knowledge and hands-on experience in DevOps methodologies, including Infrastructure as Code (IaC), containerization, and orchestration.</li>
+<li>Proficiency: In-depth knowledge and hands-on experience in DevOps & SRE methodologies, including Infrastructure as Code (IaC), containerization, and orchestration.</li>
 
 <li>Expertise: Extensive experience with a broad spectrum of technologies, with a specialization in system automation and deployment processes.</li>
 </ul>
