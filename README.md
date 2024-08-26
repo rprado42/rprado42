@@ -1,5 +1,12 @@
 ### Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> my name is Rafael Prado
 
+<style>
+    .contatos {
+        display:flex;
+        flex-direction:column;
+
+    }
+    </style>
 <div dir="auto"><h2 class="heading-element" dir="auto">SRE (Site Reliability Engineering)</h2></div>
 
 <p dir="auto"><strong>Education and Skills:</strong></p>
@@ -7,7 +14,7 @@
 
 <li>Degree: MBA in Software Engineering.</li>
 
-<li>Proficiency: In-depth knowledge and hands-on experience in DevOps & SRE methodologies, including Infrastructure as Code (IaC), containerization, and orchestration.</li>
+<li>Proficiency: In-depth knowledge and hands-on experience in DevOps methodologies, including Infrastructure as Code (IaC), containerization, and orchestration.</li>
 
 <li>Expertise: Extensive experience with a broad spectrum of technologies, with a specialization in system automation and deployment processes.</li>
 </ul>
@@ -25,9 +32,9 @@
 <p dir="auto"><strong>Technologies and Tools:</strong></p>
 <ul dir="auto">
 <li><strong>Cloud Platforms:</strong> AWS, Azure, ECS</li>
-<li><strong>Infrastructure as Code:</strong> Terraform, DataDog</li>
+<li><strong>Infrastructure as Code:</strong> Terraform, Terragrunt</li>
 <li><strong>Monitoring/Observability:</strong> DataDog,Grafana, Prometheus, Dynatrace</li>
-<li><strong>Containerization &amp; Orchestration:</strong> Docker, Kubernetes</li>
+<li><strong>Containerization &amp; Orchestration:</strong> Docker, Rancher, Harbor</li>
 <li><strong>Programming/Scripting:</strong> Go, Bash, Python</li>
 <li><strong>CI/CD &amp; Version Control:</strong> GitHub Actions, Bitbucket, GitLab</li>
 </ul>
@@ -55,18 +62,19 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rprado42&theme=algolia&show_icons=true)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rprado42&hide_progress=true)
 
-
-<div dir="auto"><h2 class="heading-element" dir="auto"></div>
-
+<hr>
 
 <p dir="auto"><strong>Contacts:</strong></p>
-<ul dir="auto">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsprado/) 
+
+<div class="contatos">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsprado/)
 
 [![Calendly](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://calendly.com/rafaelprado-silva42)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5534992187876&text&type=phone_number&app_absent=0)
+
+</div>
