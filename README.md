@@ -1,12 +1,5 @@
 ### Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> my name is Rafael Prado
 
-<style>
-    .contatos {
-        display:flex;
-        flex-direction:column;
-
-    }
-    </style>
 <div dir="auto"><h2 class="heading-element" dir="auto">SRE (Site Reliability Engineering)</h2></div>
 
 <p dir="auto"><strong>Education and Skills:</strong></p>
