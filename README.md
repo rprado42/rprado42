@@ -1,6 +1,12 @@
 ### Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> my name is Rafael Prado
 
+<style>
+    .contatos {
+        display:flex;
+        flex-direction:column;
 
+    }
+    </style>
 <div dir="auto"><h2 class="heading-element" dir="auto">SRE (Site Reliability Engineering)</h2></div>
 
 <p dir="auto"><strong>Education and Skills:</strong></p>
@@ -41,11 +47,11 @@
 <li>🤝  I'm open to collaborating on SRE, Devops &amp; Monitoring Projects</li>
 </ul>
 
-<div dir="auto"><h2 class="heading-element" dir="auto"></div>
-<p dir="auto"><strong>Skills  & Status:</strong></p>
-<ul dir="auto">
+<hr>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5680b639ebed051383abea5833d68e1d9f48937f6c4c55ee9de4a1188da93882/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5680b639ebed051383abea5833d68e1d9f48937f6c4c55ee9de4a1188da93882/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" style="max-width: 100%;"></a>
+<p dir="auto"><strong>Skills  & Status:</strong></p>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5680b639ebed051383abea5833d68e1d9f48937f6c4c55ee9de4a1188da93882/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5680b639ebed051383abea5833d68e1d9f48937f6c4c55ee9de4a1188da93882/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb0e9a836eb4a7ad0fb0c4456b874efaa6f77a2f7ff0266ada9996744477c361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/eb0e9a836eb4a7ad0fb0c4456b874efaa6f77a2f7ff0266ada9996744477c361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465" alt="Azure" data-canonical-src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dcadbe95e57f38dabfd79f40fc2d5255ee823b713c670dfb07bba34adce05069/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465727261666f726d2d3632334345343f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/dcadbe95e57f38dabfd79f40fc2d5255ee823b713c670dfb07bba34adce05069/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465727261666f726d2d3632334345343f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465" alt="Terraform" data-canonical-src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cab240f85acd73c8eca7b1f3b8bb06ef0c4357e99f29b0c71f7d6e621909b32c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/cab240f85acd73c8eca7b1f3b8bb06ef0c4357e99f29b0c71f7d6e621909b32c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a></p>
@@ -60,10 +66,8 @@
 
 <hr>
 
-<p dir="auto"><strong>Contacts:</strong></p>
+<strong>Contacts:</strong>
 
-
-<div class="contatos">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsprado/)
 
