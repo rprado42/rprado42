@@ -27,7 +27,7 @@
 <li><strong>Cloud Platforms:</strong> AWS, Azure, ECS</li>
 <li><strong>Infrastructure as Code:</strong> Terraform, Terragrunt</li>
 <li><strong>Monitoring/Observability:</strong> DataDog,Grafana, Prometheus, Dynatrace</li>
-<li><strong>Containerization &amp; Orchestration:</strong> Docker, Rancher, Harbor</li>
+<li><strong>Containerization &amp; Orchestration:</strong> Docker, Kubernetes</li>
 <li><strong>Programming/Scripting:</strong> Go, Bash, Python</li>
 <li><strong>CI/CD &amp; Version Control:</strong> GitHub Actions, Bitbucket, GitLab</li>
 </ul>
