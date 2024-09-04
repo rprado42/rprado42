@@ -53,8 +53,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rprado42&theme=algolia&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rprado42)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rprado42&layout=compact)](https://github.com/rprado42/github-readme-stats)
 <hr>
 
 <strong>Contacts:</strong>
