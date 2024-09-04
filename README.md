@@ -51,7 +51,8 @@
 <a href="https://go.dev/doc/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="max-width: 100%;"></a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="max-width: 100%;"></a><a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a></a><a href="https://www.docker.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="max-width: 100%;"></a><a href="https://www.linux.org" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="max-width: 100%;"></a>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rprado42&theme=algolia&show_icons=true)
+![Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=rprado42&show_icons=true)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rprado42&layout=compact)](https://github.com/rprado42/github-readme-stats)
