@@ -24,10 +24,10 @@
 
 <p dir="auto"><strong>Technologies and Tools:</strong></p>
 <ul dir="auto">
-<li><strong>Cloud Platforms:</strong> AWS, Azure, ECS</li>
+<li><strong>Cloud Platforms:</strong> AWS, Azure</li>
 <li><strong>Infrastructure as Code:</strong> Terraform, Terragrunt</li>
-<li><strong>Monitoring &amp; Observability:</strong> DataDog,Grafana, Prometheus, Dynatrace</li>
-<li><strong>Containerization &amp; Orchestration:</strong> Docker, Kubernetes</li>
+<li><strong>Monitoring &amp; Observability:</strong> DataDog, Grafana, Prometheus</li>
+<li><strong>Containerization &amp; Orchestration:</strong> Docker</li>
 <li><strong>Programming &amp; Scripting:</strong> Go, Bash, Python</li>
 <li><strong>CI/CD &amp; Version Control:</strong> GitHub Actions, Bitbucket, GitLab</li>
 </ul>
